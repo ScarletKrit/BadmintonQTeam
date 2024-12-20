@@ -25,6 +25,7 @@ export default function App() {
               <PlayerNoButton NO="5" title="ทีม : " TeamName1="C" />
               <PlayerNoButton NO="6" title="ทีม : " TeamName1="D" />
               <PlayerNoButton NO="7" title="ทีม : " TeamName1="E" />
+              <PlayerNoButton NO="8" title="ทีม : " TeamName1="QQ" />
             </View>
           </ScrollView>
         </View>
